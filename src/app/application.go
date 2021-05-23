@@ -2,8 +2,8 @@ package app
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kamilyrb/bookstore_oauth-api/http"
 	"github.com/kamilyrb/bookstore_oauth-api/src/domain/access_token"
+	"github.com/kamilyrb/bookstore_oauth-api/src/http"
 	"github.com/kamilyrb/bookstore_oauth-api/src/repository/db"
 )
 
